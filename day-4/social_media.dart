@@ -40,6 +40,7 @@ print(uniqueTags);
 print(CapTitle);
 print(UperCase_Title);
 print(newPost);
+
  for (var post in posts) {
     post.forEach((key, value) {
       print('$key : $value');

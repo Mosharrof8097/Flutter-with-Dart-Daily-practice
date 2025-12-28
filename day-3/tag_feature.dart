@@ -7,10 +7,4 @@ void main(){
   List<String> Taglist=['Flutter', 'Dart', 'Flutter', 'Mobile'];
    blogTags.addAll(Taglist);
   print(blogTags);
-  print('Total unique tags: ${blogTags.length}');
-
-
-    
-
-
-}
+  print('Total unique tags: ${blogTags.length}');}

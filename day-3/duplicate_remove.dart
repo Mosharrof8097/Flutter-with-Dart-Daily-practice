@@ -7,6 +7,5 @@ void main(){
   List<String> rawContacts = ['Rafi', 'Sajib', 'Rafi', 'Asif', 'Sajib', 'Rakib'];
   Set<String> dupRemove= rawContacts.toSet();
   List<String> NewList=dupRemove.toList();
-  print(dupRemove);
   print(NewList);
 }

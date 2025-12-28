@@ -18,6 +18,3 @@ void main(){
 
 }
 
-
-// List<String> rUsers =
-//     users.where((name) => name.startsWith('r')).toList();
